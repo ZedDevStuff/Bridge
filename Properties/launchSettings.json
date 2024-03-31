@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Bridge": {
+      "commandName": "Project",
+      "commandLineArgs": "localhost:5173"
+    }
+  }
+}
